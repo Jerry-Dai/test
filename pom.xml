@@ -32,9 +32,7 @@
         <module>mall-mbg</module>
         <module>mall-security</module>
         <module>mall-demo</module>
-        <module>mall-admin</module>
-        <module>mall-search</module>
-        <module>mall-portal</module>
+
     </modules>
 
     <parent>
